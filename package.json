@@ -1,0 +1,27 @@
+{
+  "name": "ui-tree-keyboard",
+  "version": "0.0.0",
+  "description": "An Angular directive using angular-ui-tree and ui-utils to make tree keyboard friendly",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrencz/ui-tree-keyboard.git"
+  },
+  "keywords": [
+    "Angular",
+    "angular-ui",
+    "keyboard"
+  ],
+  "author": "Jarek Rencz <jaroslaw@rencz.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrencz/ui-tree-keyboard/issues"
+  },
+  "homepage": "https://github.com/jrencz/ui-tree-keyboard",
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  }
+}
